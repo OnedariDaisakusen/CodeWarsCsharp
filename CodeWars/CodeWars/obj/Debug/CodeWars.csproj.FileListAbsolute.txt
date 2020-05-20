@@ -1,0 +1,7 @@
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\obj\Debug\CodeWars.csprojAssemblyReference.cache
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Sede Claro\Desktop\CodeWars\CSHARP\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
